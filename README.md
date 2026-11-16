@@ -1,19 +1,23 @@
 
 <div align="center">
 
-<!-- HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=25&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Shivam+Kumar;Computer+Science+Student;Aspiring+Software+Engineer;Learning.+Building.+Improving." alt="Typing introduction" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=23&duration=3000&pause=1000&color=4285F4&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Shivam+Kumar;Computer+Science+Student;Aspiring+Software+Engineer;Building.+Learning.+Improving." alt="Typing SVG" />
+<p>
+  <b>Computer Science & Engineering · AI & ML</b>
+  <br/>
+  India · Class of 2029
+</p>
 
 <p>
   <a href="https://github.com/shxvaamm">
-    <img src="https://img.shields.io/badge/GitHub-shxvaamm-181717?style=flat-square&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/shxvamkumar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:shvxamkumar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -21,39 +25,47 @@
 
 ---
 
-## About
+## About Me
 
-I'm a Computer Science and Engineering (AI & ML) undergraduate at Mirai School of Technology, interested in software engineering, backend development and problem-solving.
+I'm a Computer Science and Engineering undergraduate at Mirai School of Technology, interested in software engineering, backend development and problem-solving.
 
-I enjoy exploring how software systems work, learning new technologies and turning ideas into functional applications.
+I enjoy learning how software systems work, strengthening my programming fundamentals and exploring ways to build useful applications.
 
 - 🎓 B.Tech CSE (AI & ML) — Expected 2029
 - 💻 Practising Data Structures & Algorithms in C++
-- 🌐 Exploring full-stack and backend development
+- 🌐 Exploring full-stack web development
+- ⚙️ Learning backend development with Node.js
 - 🧠 Interested in software engineering and system fundamentals
 - 🇯🇵 Exploring software engineering internship opportunities in Japan
-- 📍 India
 
 ---
 
-## Technical Stack
+## Tech Stack
 
-### Languages
+### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css" alt="C++, JavaScript, HTML and CSS"/>
 </p>
 
 ### Frameworks & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs" alt="React and Node.js"/>
 </p>
 
-### Databases & Tools
+### Databases & Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,supabase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode" alt="MongoDB, Git, GitHub and VS Code"/>
+</p>
+
+### Additional Exposure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase"/>
+  <br/>
+  <sub>Supabase project URL configuration and environment integration</sub>
 </p>
 
 ---
@@ -62,31 +74,31 @@ I enjoy exploring how software systems work, learning new technologies and turni
 
 ### Employee Management System
 
-A web-based employee management application developed as an academic project with AI-assisted implementation.
+An academic web development project involving an employee management application.
 
-- Worked with the project configuration and environment setup.
-- Connected the application to Supabase using environment variables.
-- Explored modern web development workflows.
+**My involvement:**
+- Used AI-assisted development workflows to guide implementation.
+- Configured the Supabase project URL through environment variables.
+- Explored application configuration and integration workflows.
 
-**Technologies:** React, Node.js, MongoDB, Supabase
-
-[View Repository](https://github.com/shxvaamm/Employee-Management-System)
+**Project repository:**  
+[Employee Management System](https://github.com/shxvaamm/Employee-Management-System)
 
 ---
 
 ## Problem Solving
 
-I regularly practise programming and strengthen my understanding of data structures and algorithms using C++.
+I practise Data Structures and Algorithms using C++, with current learning progress through Trees.
 
-<p align="center">
+<p align="left">
   <a href="https://leetcode.com/u/LeetShxvam/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://codeforces.com/profile/CodeShxvam">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
   <a href="https://www.codechef.com/users/code_shxvam">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 </p>
 
@@ -96,21 +108,23 @@ I regularly practise programming and strengthen my understanding of data structu
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shxvaamm&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4285F4&icon_color=4285F4&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shxvaamm&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4285F4&icon_color=4285F4&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shxvaamm&layout=compact&hide_border=true&bg_color=0D1117&title_color=4285F4&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shxvaamm&layout=compact&hide_border=true&bg_color=0D1117&title_color=4285F4&text_color=C9D1D9" alt="Most used languages"/>
 
 <br/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=shxvaamm&bg_color=0D1117&color=9ECAE1&line=4285F4&point=FFFFFF&area=true&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shxvaamm&bg_color=0D1117&color=9ECAE1&line=4285F4&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity"/>
 
 </div>
 
 ---
 
-## Connect
+## Let's Connect
 
-<p>
+I'm interested in connecting with developers, learning from engineering communities and exploring software development opportunities.
+
+<p align="center">
   <a href="https://github.com/shxvaamm">GitHub</a> ·
   <a href="https://www.linkedin.com/in/shxvamkumar/">LinkedIn</a> ·
   <a href="https://leetcode.com/u/LeetShxvam/">LeetCode</a> ·
@@ -118,14 +132,12 @@ I regularly practise programming and strengthen my understanding of data structu
   <a href="https://www.codechef.com/users/code_shxvam">CodeChef</a>
 </p>
 
-For collaboration or professional opportunities:
-
-**shvxamkumar@gmail.com**
-
----
+<p align="center">
+  <a href="mailto:shvxamkumar@gmail.com">shvxamkumar@gmail.com</a>
+</p>
 
 <div align="center">
 
-*Focused on fundamentals. Curious about systems. Always building.*
+**Building strong fundamentals. One project at a time.**
 
 </div>
